@@ -1,8 +1,8 @@
 module.exports = {
-    token: "YOUR_TOKEN",
-    prefix: "PREFIX",
+    token: "Nzk5OTI4Mzk1NzM5MDM3NzI2.YAKtXw.gbYggIwOgG-TNkz6ibT9Y7a2mxY",
+    prefix: "-",
     admins: [
-        "PEOPLE WHO CAN USE ADD MONEY (IDS)"
+        "579575202610937856"
 ],
     debug: true,
     countChannel: "countChannelID"
